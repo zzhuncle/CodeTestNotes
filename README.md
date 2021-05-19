@@ -28,6 +28,34 @@ cout.tie(0);
 
 (浙大)简易计算器 https://www.nowcoder.com/practice/5759c29a28cb4361bc3605979d5a6130
 
+## 六.数学问题
+
+## 七.贪心策略
+
+### 简单贪心
+
+代理服务器 https://www.nowcoder.com/practice/1284469ee94a4762848816a42281a9e0
+
+Senior's Gun http://acm.hdu.edu.cn/showproblem.php?pid=5281
+
+### 区间贪心
+
+Case of Fugitive https://codeforces.com/group/xrTA2IaQje/contest/250162/problem/C
+
+## 八.递归与分治
+
+### 递归策略
+
+杨辉三角形 https://www.nowcoder.com/practice/ef7f264886a14fdf8a6ed3ac008a23c8
+
+全排列 https://www.nowcoder.com/practice/5632c23d0d654aecbc9315d1720421c1
+
+### 分治法
+
+二叉树 https://www.nowcoder.com/practice/f74c7506538b44399f2849eba2f050b5
+
+2的幂次方 https://www.nowcoder.com/practice/7cf7b0706d7e4b439481f53e5fdac6e7
+
 ## 九.搜索
 
 ### 宽度优先搜索
@@ -37,6 +65,8 @@ cout.tie(0);
 (北大) A Knight's Journey http://poj.org/problem?id=2488
 
 (北大) Square http://poj.org/problem?id=2362
+
+## 十.数据结构二
 
 ## 十一.图论
 
@@ -63,3 +93,6 @@ cout.tie(0);
 (杭电) Instructions Arrangement http://acm.hdu.edu.cn/showproblem.php?pid=4109
 
 (北大) 论文 http://www.noobdream.com/DreamJudge/Issue/page/1536/
+
+## 十二.动态规划
+
