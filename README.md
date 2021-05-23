@@ -30,6 +30,10 @@ cout.tie(0);
 
 ## 六.数学问题
 
+### 高精度整数
+
+n的阶乘 https://www.nowcoder.com/practice/f54d8e6de61e4efb8cce3eebfd0e0daa
+
 ## 七.贪心策略
 
 ### 简单贪心
