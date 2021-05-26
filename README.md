@@ -72,6 +72,36 @@ Case of Fugitive https://codeforces.com/group/xrTA2IaQje/contest/250162/problem/
 
 ## 十.数据结构二
 
+### 二叉树 
+
+(北大) 二叉树遍历 https://www.nowcoder.com/practice/4b91205483694f449f94c179883c1fef
+
+(华科大) 二叉树遍历 https://www.nowcoder.com/practice/6e732a9632bc4d12b442469aed7fe9ce
+
+### 二叉排序树
+
+(华科大) 二叉排序树 https://www.nowcoder.com/practice/30a0153649304645935c949df7599602
+
+(华科大) 二叉排序树 https://www.nowcoder.com/practice/b42cfd38923c4b72bde19b795e78bcb3
+
+(浙大) 二叉搜索树 https://www.nowcoder.com/practice/3d6dd9a58d5246f29f71683346bb8f1b
+
+### 优先队列
+
+查找第K小的数 https://www.nowcoder.com/practice/204dfa6fcbc8478f993d23f693189ffd
+
+搬水果 https://www.nowcoder.com/practice/e4c775b0f3ee42a4bb72c26d2e1eef8a
+
+### 散列表
+
+魔咒词典 https://www.nowcoder.com/practice/c6ca566fa3984fae916e6d7beae8ea7f
+
+子串计算 https://www.nowcoder.com/practice/bcad754c91a54994be31a239996e7c11
+
+开门人和关门人 https://www.nowcoder.com/practice/a4b37b53a44d454ab0834e1517983215
+
+谁是你的潜在朋友 https://www.nowcoder.com/practice/0177394fb25b42b48657bc2b1c6f9fcc
+
 ## 十一.图论
 
 ### 并查集
@@ -100,3 +130,28 @@ Case of Fugitive https://codeforces.com/group/xrTA2IaQje/contest/250162/problem/
 
 ## 十二.动态规划
 
+### 递推求解
+
+吃糖果 http://t.cn/AiQsVyKz
+
+### 最大连续子序列和
+
+最大连续子序列和 http://t.cn/AiYSlQMU
+
+最大子矩阵 http://t.cn/AiO7FyDO
+
+最大连续子序列 http://t.cn/AiYoUkjP
+
+### 最长递增子序列
+
+拦截导弹 http://t.cn/AiYCeV3m
+
+最大上升子序列和 http://t.cn/AiYNAGD3
+
+合唱队形 http://t.cn/AiYNyHPe
+
+### 最长公共子序列
+
+### 背包问题
+
+### 其他问题
