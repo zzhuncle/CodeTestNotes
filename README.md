@@ -138,7 +138,7 @@ Case of Fugitive https://codeforces.com/group/xrTA2IaQje/contest/250162/problem/
 
 最大连续子序列和 http://t.cn/AiYSlQMU
 
-最大子矩阵 http://t.cn/AiO7FyDO
+最大子矩阵 https://www.nowcoder.com/practice/a5a0b05f0505406ca837a3a76a5419b3
 
 最大连续子序列 http://t.cn/AiYoUkjP
 
@@ -148,10 +148,24 @@ Case of Fugitive https://codeforces.com/group/xrTA2IaQje/contest/250162/problem/
 
 最大上升子序列和 http://t.cn/AiYNAGD3
 
-合唱队形 http://t.cn/AiYNyHPe
+*** 合唱队形 http://t.cn/AiYNyHPe
 
 ### 最长公共子序列
 
+找到两个字符串的最长公共子串 https://www.nowcoder.com/practice/f38fc44b43cf44eaa1de407430b85e69
+
 ### 背包问题
+
+#### 01背包
+
+点菜问题 http://t.cn/AiYOrkXr
+
+采药 https://www.nowcoder.com/practice/d7c03b114f0541dd8e32ce9987326c16
+
+最小邮票数 http://t.cn/AiYlwchD
+
+#### 完全背包
+
+#### 多重背包
 
 ### 其他问题
