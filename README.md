@@ -166,6 +166,18 @@ Case of Fugitive https://codeforces.com/group/xrTA2IaQje/contest/250162/problem/
 
 #### 完全背包
 
+Piggy-Bank https://vjudge.net/problem/HDU-1114
+
 #### 多重背包
 
+珍惜现在，感恩生活 https://vjudge.net/problem/HDU-2191
+
 ### 其他问题
+
+The Triangle http://poj.org/problem?id=1163
+
+Monkey Banana Problem https://lightoj.com/problem/monkey-banana-problem
+
+放苹果 https://www.nowcoder.com/practice/4f0c1e21010e4d849bde5297148e81d9
+
+整数拆分 https://www.nowcoder.com/practice/376537f4609a49d296901db5139639ec
