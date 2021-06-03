@@ -30,6 +30,30 @@ cout.tie(0);
 
 ## 六.数学问题
 
+### 最大公约数与最小公倍数
+
+最大公约数 https://www.nowcoder.com/practice/20216f2c84bc438eb5ef05e382536fd3
+
+最小公倍数 
+
+最简真分数 https://www.nowcoder.com/practice/1f1db273eeb745c6ac83e91ff14d2ec9
+
+### 质数
+
+素数判定 https://www.nowcoder.com/practice/5fd9c28b1ce746dd99287a04d8fa9002
+
+素数 
+
+Prime Number https://www.nowcoder.com/practice/c5f8688cea8a4a9a88edbd67d1358415
+
+### 分解质因数
+
+质因数的个数 https://www.nowcoder.com/practice/20426b85f7fc4ba8b0844cc04807fbd9
+
+约数的个数 https://www.nowcoder.com/practice/04c8a5ea209d41798d23b59f053fa4d6
+
+*** 整除问题 *** https://www.nowcoder.com/practice/8e29045de1c84d349b43fdb123ab586a
+
 ### 高精度整数
 
 n的阶乘 https://www.nowcoder.com/practice/f54d8e6de61e4efb8cce3eebfd0e0daa
@@ -148,7 +172,7 @@ Case of Fugitive https://codeforces.com/group/xrTA2IaQje/contest/250162/problem/
 
 最大上升子序列和 http://t.cn/AiYNAGD3
 
-*** 合唱队形 http://t.cn/AiYNyHPe
+*** 合唱队形 *** http://t.cn/AiYNyHPe
 
 ### 最长公共子序列
 
