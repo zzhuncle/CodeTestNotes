@@ -54,9 +54,27 @@ Prime Number https://www.nowcoder.com/practice/c5f8688cea8a4a9a88edbd67d1358415
 
 *** 整除问题 *** https://www.nowcoder.com/practice/8e29045de1c84d349b43fdb123ab586a
 
+### 快速幂
+
+人见人爱A^B https://vjudge.net/problem/HDU-2035
+
+求root(N, k) https://www.nowcoder.com/practice/9324a1458c564c4b9c4bfc3867a2aa66
+
+### 矩阵快速幂
+
+矩阵幂 https://www.nowcoder.com/practice/31e539ab08f949a8bece2a7503e9319a
+
+A+B for Matrices https://www.nowcoder.com/practice/e431b3ae9efa4726b45a659b71abe124
+
+递推数列 https://www.nowcoder.com/practice/d0e751eac618463bb6ac447369e4aa25
+
 ### 高精度整数
 
 n的阶乘 https://www.nowcoder.com/practice/f54d8e6de61e4efb8cce3eebfd0e0daa
+
+数字阶梯求和 https://www.nowcoder.com/practice/c66df29f6c1c4dbba0bd51619210e082
+
+大整数的因子 https://www.nowcoder.com/practice/3d6cee12fbf54ea99bb165cbaba5823d
 
 ## 七.贪心策略
 

@@ -1,3 +1,4 @@
+//n的阶乘 https://www.nowcoder.com/practice/f54d8e6de61e4efb8cce3eebfd0e0daa
 //高精度整数
 import java.math.BigInteger;
 import java.util.Scanner;
