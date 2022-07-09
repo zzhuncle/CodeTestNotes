@@ -1,4 +1,9 @@
 # CodeTestNotes
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongyuanwai)
+
+<img  src="https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=minimal" />
+  
 《王道》机试指南题目整理
 
 ```c++
