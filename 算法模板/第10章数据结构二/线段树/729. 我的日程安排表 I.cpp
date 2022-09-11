@@ -6,7 +6,8 @@ public:
     MyCalendar() {
 
     }
-
+    
+    //区间查询
     bool query(int start, int end, int l, int r, int idx) {
         if (r < start || end < l)//没有任何交集
             return false;
@@ -19,7 +20,8 @@ public:
         return query(start, end, l, mid, 2 * idx) ||
             query(start, end, mid + 1, r, 2 * idx + 1);
     }
-
+    
+    //区间修改
     bool update(int start, int end, int l, int r, int idx) {
         if (r < start || end < l)
             return false;
