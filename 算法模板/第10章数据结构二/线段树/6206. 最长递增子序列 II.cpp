@@ -21,8 +21,10 @@ public:
             tree[idx] = max(tree[idx], val); 
         else {
             int mid = (l + r) >> 1;
-            update(2 * idx, val, start, end, l, mid);
-            update(2 * idx + 1, val, start, end, mid + 1, r);
+            if (l <= mid)
+                update(2 * idx, val, start, end, l, mid);
+            if (mid < r)
+                update(2 * idx + 1, val, start, end, mid + 1, r);
             tree[idx] = max(tree[2 * idx], tree[2 * idx + 1]);
         }
         return;
